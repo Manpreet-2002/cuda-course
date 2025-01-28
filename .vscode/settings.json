@@ -1,4 +1,9 @@
 {
+    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 14,
+    "editor.mouseWheelScrollSensitivity": 1,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
     "files.associations": {
         "array": "cpp",
         "atomic": "cpp",
